@@ -42,8 +42,6 @@
 <p align="center">Hello World!!<br>young upcoming penetration tester<br>Red team</p>
 
 ###
-
-<div align="center">
   <img src="https://profile-counter.glitch.me/authorized404/count.svg?"  />
 </div>
 
